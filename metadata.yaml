@@ -2,5 +2,5 @@ homepage: "https://cookiespool.com"
 documentation: "https://cookiespool.com/#sss"
 versions:
   # initial version
-  - sha: 1111111111111111111111111111111
+  - sha: b2822ff81536b99fa711f84351469a61a56add9a
     changeNotes: Initial version
